@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+  line-height: 1;
+  font-family: "Cantarell", Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: #69747c;
+  background-color: #fff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}﻿
+
+a:hover, a:active {
+  outline: none;
+}
+
+ol, ul {
+	list-style: none;
+}
